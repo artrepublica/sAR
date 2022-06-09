@@ -1,0 +1,2542 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftpes://artrepublica.pl" ftp_rootfolder="/" exportTarget="FTP" domain="artrepublica.pl" resolutions="1x" timestamp="1631209954281">
+  <folder name="css">
+    <file name="site_global.css" crc="81746707"/>
+    <file name="master_a-master.css" crc="227698782" ref="index"/>
+    <file name="pami_tam-katy_.css" crc="485934704" ref="pamiętam-katyń"/>
+    <file name="kampanie.css" crc="4241054641" ref="kampanie"/>
+    <file name="partnerska-rodzina.css" crc="291021498" ref="partnerska-rodzina"/>
+    <file name="design.css" crc="406309146" ref="design"/>
+    <file name="film.css" crc="4245821265" ref="film"/>
+    <file name="prawda-jest-niesmiertelna.css" crc="75758014" ref="prawda-jest-niesmiertelna"/>
+    <file name="web.css" crc="19770325" ref="web"/>
+    <file name="wiosenny-koszyk-niskich-cen.css" crc="208736870" ref="wiosenny-koszyk-niskich-cen"/>
+    <file name="niepodleglosc-1111.css" crc="184854631" ref="niepodleglosc-1111"/>
+    <file name="piwo-diablo-z-artrepublica.css" crc="316295785" ref="piwo-diablo-z-artrepublica"/>
+    <file name="fotografia.css" crc="274629031" ref="fotografia"/>
+    <file name="sensenia.css" crc="216171090" ref="sensenia"/>
+    <file name="tpsa.css" crc="4125792035" ref="tpsa"/>
+    <file name="face-clinic.css" crc="4026914491" ref="face-clinic"/>
+    <file name="okladki-pism.css" crc="3965293051" ref="okladki-pism"/>
+    <file name="iqb.css" crc="41476901" ref="iqb"/>
+    <file name="plakaty.css" crc="4205727124" ref="plakaty"/>
+    <file name="mum---fun.css" crc="348221961" ref="mum---fun"/>
+    <file name="graffiti.css" crc="3871979453" ref="graffiti"/>
+    <file name="microfilm.css" crc="468568963" ref="microfilm"/>
+    <file name="tabasco.css" crc="190585547" ref="tabasco"/>
+    <file name="wine-company.css" crc="35005156" ref="wine-company"/>
+    <file name="iam.css" crc="369082493" ref="iam"/>
+    <file name="tehnik-hotelarstwa.css" crc="176942762" ref="tehnik-hotelarstwa"/>
+    <file name="wakeupjohnny.css" crc="4028672600" ref="wakeupjohnny"/>
+    <file name="mocne-kino.css" crc="279545845" ref="mocne-kino"/>
+    <file name="wizja.css" crc="217062926" ref="wizja"/>
+    <file name="font.css" crc="3863122355" ref="font"/>
+    <file name="sf-panorama.css" crc="3944807858" ref="sf-panorama"/>
+    <file name="gadgety.css" crc="322951431" ref="gadgety"/>
+    <file name="grupa-projektowa.css" crc="528673444" ref="grupa-projektowa"/>
+    <file name="index.css" crc="16053710" ref="index"/>
+    <file name="alicias.css" crc="60390900" ref="alicias"/>
+    <file name="obraz-podwojny.css" crc="3875969574" ref="obraz-podwojny"/>
+    <file name="logo.css" crc="345693963" ref="logo"/>
+    <file name="branding.css" crc="4136820324" ref="branding"/>
+    <file name="master_b-master.css" crc="3824102379" ref="grupa-projektowa:font:obraz-podwojny:gadgety:pamiętam-katyń:iqb:prawda-jest-niesmiertelna:logo:face-clinic:mum---fun:wiosenny-koszyk-niskich-cen:branding:microfilm:niepodleglosc-1111:kampanie:tabasco:piwo-diablo-z-artrepublica:design:alicias:wine-company:iam:wakeupjohnny:wizja:plakaty:sf-panorama:graffiti:fotografia"/>
+    <file name="master_c-master.css" crc="253583083" ref="mocne-kino:tehnik-hotelarstwa:film:okladki-pism:web:sensenia:partnerska-rodzina:tpsa"/>
+  </folder>
+  <folder name="assets">
+    <folder name="intro_796">
+      <file name="Intro_796.js" crc="4183957910" mt="1459505486000"/>
+      <file name="Intro_796.html" crc="43672049" mt="1459505486000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:logo:branding:kampanie:design:film:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:piwo-diablo-z-artrepublica:tpsa:plakaty:graffiti:font:gadgety:alicias:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>logo:phone>fotografia:phone>web:phone>film:index:logo:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa:obraz-podwojny:wiosenny-koszyk-niskich-cen:graffiti:alicias"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>logo:phone>fotografia:phone>web:phone>film:index:logo:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa:obraz-podwojny:wiosenny-koszyk-niskich-cen:graffiti:alicias"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>logo:phone>fotografia:phone>web:phone>film:index:logo:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa:obraz-podwojny:wiosenny-koszyk-niskich-cen:graffiti:alicias"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>logo:phone>fotografia:phone>web:phone>film:index:logo:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa:obraz-podwojny:wiosenny-koszyk-niskich-cen:graffiti:alicias"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="fotografia:obraz-podwojny"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="326399872" ref="phone>index:index"/>
+    <file name="ar_red.png" crc="4279779888" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kropla_red_v2.png" crc="4213860421" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kropla_red.png" crc="491377949" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-panorama.gif" crc="412791658" seo="true" ref="phone>index:index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias">
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="vimeo-crop-u22076.png" crc="21567317" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_len_black.jpg" crc="325606014" ref="phone>index:phone>o-nas:phone>projekty:phone>fotografia:phone>branding:index:logo:branding:fotografia:film:tpsa:design">
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3832590305" ref="phone>o-nas"/>
+    <file name="bg_len_black_02.jpg" crc="4205806194" ref="phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:web:sensenia:partnerska-rodzina:okladki-pism:tehnik-hotelarstwa:mocne-kino:film:tpsa">
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="print" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="logo_bialo-czerwone.png" crc="4264872682" seo="true" ref="phone>o-nas:phone>kontakt:phone>projekty:phone>nagrody:phone>logo:phone>fotografia:phone>branding:phone>kampanie:phone>web:phone>film:phone>print:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias">
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="print" alt=""/>
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="bg_len_black-u22451-fr.png" crc="4272415237" ref="phone>o-nas:phone>branding"/>
+    <file name="logo_ar.png" crc="4211076421" seo="true" ref="phone>kontakt:logo">
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="wiz_02a-crop-u22108.png" crc="34340255" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="logo.png" crc="350965419" seo="true" ref="phone>projekty:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="grandfront2004-crop-u22121.png" crc="4143442697" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="magda_white_10-crop-u22110.jpg" crc="3893334096" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="orka_a189x126.jpg" crc="182212803" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="katynguzik-crop-u22135.jpg" crc="4174969041" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="screen_01-crop-u22148.jpg" crc="4010461509" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="jazz_plakat-crop-u22151.jpg" crc="300807143" seo="true" ref="phone>projekty">
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="wv_hitler.gif" crc="219000763" seo="true" ref="phone>nagrody:okladki-pism:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="grandfront2004-u21809.png" crc="4170957542" ref="phone>nagrody"/>
+    <file name="grandfront2004_b-u21811.png" crc="3848764578" ref="phone>nagrody"/>
+    <file name="01-nagroda.gif" crc="22365396" seo="true" ref="phone>nagrody:okladki-pism:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="grandfront-2007-u21819.png" crc="301509717" ref="phone>nagrody"/>
+    <file name="wv_outsider294x396.jpg" crc="4082578432" seo="true" ref="phone>nagrody">
+      <caption webpage="nagrody" alt=""/>
+    </file>
+    <file name="grandfront_2010.jpg" crc="93967438" seo="true" ref="phone>nagrody:okladki-pism:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="bg_len_gray_eyes.jpg" crc="277803072" ref="phone>logo:index:logo:branding:kampanie:design:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:prawda-jest-niesmiertelna:niepodleglosc-1111:piwo-diablo-z-artrepublica:plakaty:graffiti:font:gadgety:alicias:wiosenny-koszyk-niskich-cen">
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="logo_dudziak.png" crc="4261619260" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>logo:phone>fotografia:phone>web:index:web:fotografia:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa:obraz-podwojny:wiosenny-koszyk-niskich-cen:alicias"/>
+    <file name="logo_betterfly.png" crc="529384604" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_sensenia.png" crc="3873990343" seo="true" ref="phone>logo:logo:branding:sensenia">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="logo_winecompany.png" crc="4155247995" seo="true" ref="phone>logo:logo:branding:wine-company">
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_wd265x175.png" crc="4054577874" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_wd_iphone.png" crc="49119924" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_gaucho.png" crc="3786610707" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_face-clinic198x193.png" crc="3937060459" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_afrocaffee.png" crc="325995392" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_drwarsaw.png" crc="4126301911" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_kpkk.png" crc="3997352274" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mocnekino.png" crc="95621943" seo="true" ref="phone>logo:logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_betterfly-crop-u22727.png" crc="471243962" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_wd60x40.png" crc="3876063955" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_wd_iphone53x45.png" crc="3847481536" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_face-clinic47x45.png" crc="480825802" seo="true" ref="phone>logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>logo:phone>fotografia:phone>web:index:web:fotografia:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa:obraz-podwojny:wiosenny-koszyk-niskich-cen:alicias"/>
+    <file name="magda_white_10-crop-u23371.jpg" crc="421046701" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9829-168-edit-crop-u23581.jpg" crc="3867421898" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9727-71-edit-crop-u23572.jpg" crc="4288647452" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9830-169-edit-crop-u23590.jpg" crc="285214567" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9833-172-edit-crop-u23599.jpg" crc="4240860922" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9841-180-edit-edit-crop-u23608.jpg" crc="4200806964" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9843-182-edit-crop-u23617.jpg" crc="4098119278" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9889-228-edit-crop-u23626.jpg" crc="3761957436" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9829-168-edit68x45.jpg" crc="491373379" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9727-71-edit68x45.jpg" crc="4055791757" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9830-169-edit68x45.jpg" crc="75754226" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9833-172-edit68x45.jpg" crc="202047349" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9841-180-edit-edit72x45.jpg" crc="4182505227" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9843-182-edit68x45.jpg" crc="3879035559" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_9889-228-edit68x45.jpg" crc="4022663524" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="bartek_03_cut.jpg" crc="3890966728" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20110511-_mg_0342-crop-u23818.jpg" crc="4212415380" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_6069-edit-crop-u23833.jpg" crc="3874914874" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7991-edit-crop-u23893.jpg" crc="128376629" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8007-edit-crop-u23908.jpg" crc="4102661615" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8015-edit-3-crop-u23923.jpg" crc="29188112" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8293-crop-u23946.jpg" crc="4223694221" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="img_7622_dark.jpg" crc="35497514" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8154-crop-u23976.jpg" crc="247014978" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="bartek_03_cut-crop-u23806.jpg" crc="388380915" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20110511-_mg_034268x45.jpg" crc="3958446096" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_6069-edit68x45.jpg" crc="3821423304" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7991-edit68x45.jpg" crc="3848257432" seo="true" ref="phone>fotografia:fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8007-edit68x45.jpg" crc="4116097293" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8015-edit-368x45.jpg" crc="3765183770" seo="true" ref="phone>fotografia:fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_829368x45.jpg" crc="530784529" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="img_7622_dark-crop-u23964.jpg" crc="4093032975" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8154-crop-u23979.jpg" crc="4015265210" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20111124-_mg_4903-edit_rgb-crop-u24958.jpg" crc="4019959054" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_4983-edit.jpg" crc="417888757" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8196b-crop-u24972.jpg" crc="508861505" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8171-crop-u24987.jpg" crc="4254113457" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8175-crop-u25002.jpg" crc="207988133" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_5269.jpg" crc="15337540" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="pledy_x3_mg_4943_web.png" crc="3819768253" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="calelozko_mg_4880.png" crc="3964756772" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="poduszki.jpg" crc="4142173507" seo="true" ref="phone>fotografia:fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7341-crop-u25032.jpg" crc="67018409" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7377-crop-u25047.jpg" crc="357128142" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20111124-_mg_4903-edit_rgb68x45.jpg" crc="495817714" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_4983-edit-crop-u25171.jpg" crc="4025514990" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8196b68x45.jpg" crc="4029147838" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8171-crop-u24990.jpg" crc="4060274236" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_817568x45.jpg" crc="500009786" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_5269-crop-u25099.jpg" crc="4199335541" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="pledy_x3_mg_4943_web-crop-u25129.png" crc="3873797529" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="calelozko_mg_4880-crop-u25142.png" crc="4117787230" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="poduszki-crop-u25156.jpg" crc="4181472619" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_734168x45.jpg" crc="286197286" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_737768x45.jpg" crc="142058642" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="005383x256.jpg" crc="3997846760" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="006257x362.jpg" crc="87438604" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="011380x253.jpg" crc="3964717967" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="008380x254.jpg" crc="459143095" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="007380x253.jpg" crc="4012558166" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="002381x240.jpg" crc="420795952" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="003242x362.jpg" crc="331280361" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="001.jpg" crc="4244264134" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="010241x360.jpg" crc="2384786" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="004240x360.jpg" crc="4235033872" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="009.jpg" crc="451177250" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="012.jpg" crc="111875320" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00568x45.jpg" crc="366152053" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="006-crop-u24650.jpg" crc="203041599" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="01168x45.jpg" crc="106085092" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00868x45.jpg" crc="4004951961" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00768x45.jpg" crc="471652278" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00272x45.jpg" crc="3935334617" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="003-crop-u24623.jpg" crc="283030691" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="001-crop-u24605.jpg" crc="104068420" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="010-crop-u24686.jpg" crc="4196237359" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="004-crop-u24632.jpg" crc="4198545580" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="009-crop-u24677.jpg" crc="325791163" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-7309x388.jpg" crc="467091150" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-8314x393.jpg" crc="4235809014" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-1472x251.jpg" crc="493077699" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2430x229.jpg" crc="204613716" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-14380x380.jpg" crc="4085041775" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-15380x380.jpg" crc="403594600" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-16.jpg" crc="3880650139" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-23-crop-u24263.jpg" crc="434342594" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-24-crop-u24278.jpg" crc="391255325" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-7-crop-u24311.jpg" crc="319326697" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-8-crop-u24236.jpg" crc="93277061" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-1-crop-u24220.jpg" crc="3849340275" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2-crop-u24296.jpg" crc="439348936" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-14-crop-u24330.jpg" crc="216598322" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-15-crop-u24251.jpg" crc="355486324" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-16-crop-u24349.jpg" crc="4053740249" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2368x45.jpg" crc="203090232" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2468x45.jpg" crc="112982654" seo="true" ref="phone>fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="screen_01-crop-u22862.jpg" crc="364646981" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen_02-crop-u22860.jpg" crc="4269086353" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen_03-crop-u22866.jpg" crc="204508883" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen_04-crop-u22864.jpg" crc="3846433893" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen_05-crop-u22858.jpg" crc="4241495025" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen_0196x60.jpg" crc="433470937" seo="true" ref="phone>web:web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_0296x60.jpg" crc="176162550" seo="true" ref="phone>web:web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_0396x60.jpg" crc="347897008" seo="true" ref="phone>web:web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_0496x60.jpg" crc="489767893" seo="true" ref="phone>web:web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_0596x60.jpg" crc="448044340" seo="true" ref="phone>web:web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen shot 2010-05-12 at 123254 pm.jpg" crc="4096007850" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen shot 2010-05-12 at 123305 pm.jpg" crc="376056086" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen shot 2010-05-12 at 123404 pm.jpg" crc="3906247285" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen shot 2010-05-12 at 123441 pm.jpg" crc="266230708" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="screen shot 2010-05-12 at 123459 pm.jpg" crc="120253291" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun01.jpg" crc="4003089769" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun02.jpg" crc="3804154592" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun03.jpg" crc="3955020594" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun04.jpg" crc="63252751" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun05.jpg" crc="364448084" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun06.jpg" crc="318716013" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun07.jpg" crc="3926376377" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun08.jpg" crc="4053018866" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun09.jpg" crc="4103126834" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun10.jpg" crc="62399352" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0184x69.jpg" crc="3914344204" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0284x69.jpg" crc="4120328964" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0384x69.jpg" crc="4164996136" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0484x69.jpg" crc="183084926" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0584x69.jpg" crc="4223581099" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0684x69.jpg" crc="3874101693" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0784x69.jpg" crc="4054258093" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0884x69.jpg" crc="3806563145" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun0984x69.jpg" crc="4004957349" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="mumandfun1084x69.jpg" crc="510707435" seo="true" ref="phone>web">
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="orka_a-crop-u22754.jpg" crc="4269872603" seo="true" ref="phone>film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="20_a.jpg" crc="163515968" ref="phone>film:film:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="homepage_1.jpg" crc="3838742976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_2.jpg" crc="4138756371" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_3.jpg" crc="197854423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_4.jpg" crc="3782187730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="homepage_5.jpg" crc="3965288473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_len.jpg" crc="312729977" ref="index:logo:film:tpsa:design">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="ar_b-w.png" crc="4261155214" seo="true" ref="index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias">
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="iphone_black.svg" crc="3764588969" seo="true" ref="index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias">
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="iphone_black_poster_.png" crc="4008725312" ref="index:tpsa:design"/>
+    <file name="mail_black.svg" crc="4243842039" seo="true" ref="index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias">
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="mail_black_poster_.png" crc="509794484" ref="index:tpsa:design"/>
+    <file name="vimeo.png" crc="234838707" seo="true" ref="index:logo:branding:kampanie:design:film:web:fotografia:sensenia:face-clinic:iqb:mum---fun:microfilm:tabasco:wine-company:iam:wakeupjohnny:wizja:sf-panorama:grupa-projektowa:obraz-podwojny:pamiętam-katyń:partnerska-rodzina:prawda-jest-niesmiertelna:wiosenny-koszyk-niskich-cen:niepodleglosc-1111:piwo-diablo-z-artrepublica:tpsa:okladki-pism:plakaty:graffiti:tehnik-hotelarstwa:mocne-kino:font:gadgety:alicias">
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="niepodleglosc-1111" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="projekty" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="obraz-podwojny" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="partnerska-rodzina" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="ar_black.svg" crc="488610951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+    </file>
+    <file name="ar_black_poster_.png" crc="64908724" ref="index"/>
+    <file name="bg_len2.jpg" crc="312729977" ref="logo:branding:kampanie:design:fotografia:iqb:mum---fun:tabasco:wine-company:wakeupjohnny:pamiętam-katyń:prawda-jest-niesmiertelna:plakaty:graffiti:font:gadgety:alicias">
+      <caption webpage="graffiti" alt=""/>
+      <caption webpage="fotografia" alt=""/>
+      <caption webpage="kampanie" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="font" alt=""/>
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="design" alt=""/>
+      <caption webpage="o-nas" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="gadgety" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="wine-company" alt=""/>
+    </file>
+    <file name="logo_artrepublica_symbol_red.svg" crc="3818693212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="kontakt" alt=""/>
+    </file>
+    <file name="logo_artrepublica_symbol_red_poster_.png" crc="266670578" ref="index"/>
+    <file name="logo_wd.png" crc="4054577874" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_face-clinic.png" crc="3937060459" seo="true" ref="logo:face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_estancjadelvino.png" crc="3979510934" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_microfilm.png" crc="480343992" seo="true" ref="logo:branding:microfilm">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="microfilm" alt=""/>
+    </file>
+    <file name="logo_laetitia.png" crc="38226303" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_iam.png" crc="494281687" seo="true" ref="logo:iam">
+      <caption webpage="iam" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_iqb.png" crc="3918161852" seo="true" ref="logo:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_wizja.png" crc="42528914" seo="true" ref="logo:branding:wizja">
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_integra.png" crc="158851315" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_yellowpig.png" crc="4239780209" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_mckis.png" crc="4071176009" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mckis_wisla.png" crc="4256338008" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mckis_tradycja.png" crc="467708087" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mckis_mlodzi.png" crc="3869896761" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mckis_sezam.png" crc="3904067943" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mumandfun.png" crc="329330523" seo="true" ref="logo:branding:mum---fun">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="logo_tabasco.png" crc="159530411" seo="true" ref="logo:branding:tabasco">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="tabasco" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_wd-crop-u7377.png" crc="3858664530" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_wd79x53.png" crc="4214859121" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_wakeupjohnny.png" crc="4173275695" seo="true" ref="logo:branding:wakeupjohnny">
+      <caption webpage="wakeupjohnny" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_tvp.png" crc="148359603" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_sfpanorama.png" crc="3903196555" seo="true" ref="logo:branding:sf-panorama">
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_mc_signup.png" crc="4078943095" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_mc.png" crc="4046842394" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_artrepublica_846.png" crc="4105847218" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_alicias-blocks.png" crc="500507557" seo="true" ref="logo:alicias">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="alicias" alt=""/>
+    </file>
+    <file name="logo_alicias-books.png" crc="422337845" seo="true" ref="logo:alicias">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="alicias" alt=""/>
+      <caption webpage="alicias" alt=""/>
+    </file>
+    <file name="logo_grupaprojektowa.png" crc="3995781532" seo="true" ref="logo:branding:grupa-projektowa">
+      <caption webpage="branding" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="logo_wd114x75.png" crc="441906624" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_face-clinic106x103.png" crc="3907302380" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_iam91x91.png" crc="99477334" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_iqb89x89.png" crc="4138193761" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_mckis-crop-u6467.png" crc="4221655831" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mckis_tradycja116x127.png" crc="3841467206" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="logo_mckis_mlodzi105x105.png" crc="112442459" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_wd-crop-u7355.png" crc="378697545" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="piktogramy_mc-crop-u6641.png" crc="311338064" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="bg_len-u19094-r-fr.png" crc="4189599570" ref="logo"/>
+    <file name="logo_face-clinic118x115.png" crc="3766042131" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="logo_iqb93x92.png" crc="193710697" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="logo_iam105x105.png" crc="3912129687" seo="true" ref="branding">
+      <caption webpage="branding" alt=""/>
+    </file>
+    <file name="katynguzik-crop-u12062.jpg" crc="221880575" seo="true" ref="kampanie">
+      <caption webpage="kampanie" alt=""/>
+    </file>
+    <file name="popieluszko_palac-crop-u12148.jpg" crc="38338890" seo="true" ref="kampanie">
+      <caption webpage="kampanie" alt=""/>
+    </file>
+    <file name="zasuwa-crop-u12165.jpg" crc="364710569" seo="true" ref="kampanie">
+      <caption webpage="kampanie" alt=""/>
+    </file>
+    <file name="orzel_komoks-crop-u12153.jpg" crc="18424233" seo="true" ref="kampanie">
+      <caption webpage="kampanie" alt=""/>
+    </file>
+    <file name="reklama_205x297_rgb-crop-u12158.jpg" crc="3995971304" seo="true" ref="kampanie">
+      <caption webpage="kampanie" alt=""/>
+    </file>
+    <file name="font_sundaylove-crop-u17760.png" crc="4012100610" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="aliciasblocks_1280-crop-u19400.jpg" crc="3920803309" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="rethman07-crop-u11934.png" crc="333153553" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="tpsa-crop-u11528.jpg" crc="493861293" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="kapsel_diablo_300-dpi-crop-u34423.jpg" crc="3770423641" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="okladka_d_szczurek_ok-crop-u11555.jpg" crc="383404758" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="galka_marketing_165x235_marketing-crop-u11545.jpg" crc="267377418" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="inforcharakter-crop-u11996.jpg" crc="4226795844" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="timetoswitch-crop-u11990.jpg" crc="284426907" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="mailing-crop-u18272.png" crc="4117268388" seo="true" ref="design">
+      <caption webpage="design" alt=""/>
+    </file>
+    <file name="u11975.png" crc="346120565" ref="design"/>
+    <file name="u11975-r.png" crc="415162281" ref="design"/>
+    <file name="bg_len_gray.jpg" crc="359514408" ref="face-clinic:iam:wizja:sf-panorama:grupa-projektowa:piwo-diablo-z-artrepublica">
+      <caption webpage="wizja" alt=""/>
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+      <caption webpage="iam" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="film" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="sf-panorama" alt=""/>
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="orka_a-crop-u7250.jpg" crc="3955366966" seo="true" ref="film">
+      <caption webpage="film" alt=""/>
+    </file>
+    <file name="macbook-u19585.png" crc="4167542777" ref="web"/>
+    <file name="screen_01.jpg" crc="4145893390" seo="true" ref="web:sensenia">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_02.jpg" crc="49981229" seo="true" ref="web:sensenia">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_03.jpg" crc="3925603066" seo="true" ref="web:sensenia">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_04.jpg" crc="181169579" seo="true" ref="web:sensenia">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="screen_05.jpg" crc="84855218" seo="true" ref="web:sensenia">
+      <caption webpage="web" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="swiatlo.png" crc="329309347" seo="true" ref="web:sensenia:face-clinic:iqb:mum---fun:grupa-projektowa">
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+      <caption webpage="sensenia" alt=""/>
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="macbook-u19727.png" crc="4159922752" ref="web"/>
+    <file name="face-clinic_01.jpg" crc="4025249473" seo="true" ref="web:face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="face-clinic_02.jpg" crc="31164575" seo="true" ref="web:face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="face-clinic_03.jpg" crc="4095848092" seo="true" ref="web:face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="face-clinic_0196x60.jpg" crc="4219120797" seo="true" ref="web:face-clinic">
+      <caption webpage="web" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0296x60.jpg" crc="214579799" seo="true" ref="web:face-clinic">
+      <caption webpage="web" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0396x60.jpg" crc="4115255616" seo="true" ref="web:face-clinic">
+      <caption webpage="web" alt=""/>
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="macbook-u19784.png" crc="4159922752" ref="web"/>
+    <file name="1.jpg" crc="3848642548" seo="true" ref="web:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="2.jpg" crc="107552803" seo="true" ref="web:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4197410565" seo="true" ref="web:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="4.jpg" crc="13517559" seo="true" ref="web:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3764432811" seo="true" ref="web:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="6.jpg" crc="153180994" seo="true" ref="web:iqb">
+      <caption webpage="iqb" alt=""/>
+      <caption webpage="web" alt=""/>
+    </file>
+    <file name="196x60.jpg" crc="248264966" seo="true" ref="web:iqb">
+      <caption webpage="web" alt=""/>
+      <caption webpage="iqb" alt=""/>
+    </file>
+    <file name="296x60.jpg" crc="320309080" seo="true" ref="web:iqb">
+      <caption webpage="web" alt=""/>
+      <caption webpage="iqb" alt=""/>
+    </file>
+    <file name="396x60.jpg" crc="53380594" seo="true" ref="web:iqb">
+      <caption webpage="web" alt=""/>
+      <caption webpage="iqb" alt=""/>
+    </file>
+    <file name="496x60.jpg" crc="89056064" seo="true" ref="web:iqb">
+      <caption webpage="web" alt=""/>
+      <caption webpage="iqb" alt=""/>
+    </file>
+    <file name="596x60.jpg" crc="3852909334" seo="true" ref="web:iqb">
+      <caption webpage="web" alt=""/>
+      <caption webpage="iqb" alt=""/>
+    </file>
+    <file name="696x60.jpg" crc="4026461883" seo="true" ref="web:iqb">
+      <caption webpage="web" alt=""/>
+      <caption webpage="iqb" alt=""/>
+    </file>
+    <file name="macbook-u19862.png" crc="4159922752" ref="web"/>
+    <file name="www_mum-fun_01.jpg" crc="4278475227" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_02.jpg" crc="218127812" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_03.jpg" crc="4116697958" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_04.jpg" crc="4139486109" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_05.jpg" crc="84891655" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_06.jpg" crc="4289969838" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_07.jpg" crc="532789713" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_08.jpg" crc="3875929877" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_09.jpg" crc="4013065951" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_010.jpg" crc="3769753150" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0196x60.jpg" crc="3868197097" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0296x60.jpg" crc="101477781" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0396x60.jpg" crc="4061206153" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0496x60.jpg" crc="171638786" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0596x60.jpg" crc="167473054" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0696x60.jpg" crc="4223384639" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0796x60.jpg" crc="3904401659" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0896x60.jpg" crc="536378143" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_0996x60.jpg" crc="421500889" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="www_mum-fun_01096x60.jpg" crc="279583568" seo="true" ref="web:mum---fun">
+      <caption webpage="web" alt=""/>
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="macbook-u19968.png" crc="4159922752" ref="web"/>
+    <file name="www_gpmw.jpg" crc="397122564" seo="true" ref="web:grupa-projektowa">
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="www_gpmw96x60.jpg" crc="516974508" seo="true" ref="web:grupa-projektowa">
+      <caption webpage="web" alt=""/>
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="orka_a.jpg" crc="23896941" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="projekty" alt=""/>
+    </file>
+    <file name="visual-crop-u27242.jpg" crc="3921727876" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="obliczetwarzy-crop-u27268.jpg" crc="3835616850" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="visual.jpg" crc="3801770837" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="obliczetwarzy.jpg" crc="3988249092" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7991-edit.jpg" crc="126426939" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8015-edit-3.jpg" crc="3774141060" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20110115-img_8029b63x42.jpg" crc="3900638966" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="matylda-crop-u8646.jpg" crc="231981608" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="klara-crop-u8785.jpg" crc="2728999" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="bartek_03_cut_web-crop-u8625.jpg" crc="4233660706" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="babcia-crop-u8661.jpg" crc="3984767143" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="komar-crop-u8676.jpg" crc="3888582481" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="calling woman63x42.jpg" crc="500186811" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="maria-crop-u18327.jpg" crc="3977958563" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="usta-macro_web59x40.jpg" crc="436577484" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20110115-img_8029b.jpg" crc="3775813121" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="matylda.jpg" crc="4190347925" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="klara.jpg" crc="3851824550" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="bartek_03_cut_web.jpg" crc="500558383" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="babcia.jpg" crc="4198366735" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="komar.jpg" crc="4152635655" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="calling woman.jpg" crc="89270708" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="maria.jpg" crc="399462717" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="usta-macro_web.jpg" crc="12021280" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20111124-_mg_4903-edit_rgb63x42.jpg" crc="261852720" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_489963x42.jpg" crc="3775757369" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="pled_03-crop-u26055.jpg" crc="4206633908" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="pled-crop-u26061.jpg" crc="3888240091" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_733159x40.jpg" crc="261316085" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_734159x40.jpg" crc="86348761" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_737759x40.jpg" crc="393046824" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_728859x40.jpg" crc="2848150" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_742659x40.jpg" crc="344935952" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8196b59x40.jpg" crc="155341676" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8171-crop-u26238.jpg" crc="275240742" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_817559x40.jpg" crc="3994358579" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="20111124-_mg_4903-edit_rgb.jpg" crc="475847175" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_4899.jpg" crc="4065959326" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="pled_03.jpg" crc="261357911" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="pled.jpg" crc="514364598" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7331.jpg" crc="4120986751" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7341.jpg" crc="3888228594" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7377.jpg" crc="4159172705" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7288.jpg" crc="3997879210" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_7426.jpg" crc="241701232" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8196b.jpg" crc="4047046072" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8171.jpg" crc="134728318" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_8175.jpg" crc="3867703061" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="u26647.png" crc="3998386879" ref="fotografia"/>
+    <file name="u26647-r.png" crc="4017896069" ref="fotografia"/>
+    <file name="u26446.png" crc="4109126985" ref="fotografia"/>
+    <file name="u26446-r.png" crc="359606890" ref="fotografia"/>
+    <file name="meblemonabi-1-crop-u26495.jpg" crc="4136333428" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2-crop-u26504.jpg" crc="22728213" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-7-crop-u26519.jpg" crc="397482450" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-8-crop-u26528.jpg" crc="3796155067" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2359x40.jpg" crc="4171609412" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2459x40.jpg" crc="272467816" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-14-crop-u26600.jpg" crc="112869588" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-15-crop-u26609.jpg" crc="3925213970" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="poduszki-crop-u26432.jpg" crc="3784659145" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00559x40.jpg" crc="460824565" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="006-crop-u26880.jpg" crc="368066397" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="01159x40.jpg" crc="3761234262" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00859x40.jpg" crc="144597128" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00759x40.jpg" crc="460022692" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="00259x38.jpg" crc="129425013" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="003-crop-u26853.jpg" crc="4099916567" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="010-crop-u26916.jpg" crc="4127654044" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="004-crop-u26862.jpg" crc="3961426383" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="_mg_6931-crop-u26644.png" crc="4227379181" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="calelozko_mg_4880-crop-u26421.png" crc="406194646" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-1-crop-u26492.jpg" crc="4025571846" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-2.jpg" crc="457029454" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-7.jpg" crc="165847490" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-8.jpg" crc="4018992874" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-23.jpg" crc="112147689" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-24.jpg" crc="4284063098" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-14-crop-u26597.jpg" crc="160907776" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="meblemonabi-15-crop-u26606.jpg" crc="3977502428" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="005.jpg" crc="3949288204" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="006.jpg" crc="3932287498" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="011.jpg" crc="487746035" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="008.jpg" crc="527014032" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="007.jpg" crc="561250" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="002.jpg" crc="127318937" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="003.jpg" crc="307383302" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="010.jpg" crc="4213120617" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="004.jpg" crc="4049396264" seo="true" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="magda_white_10.jpg" crc="430917192" ref="fotografia">
+      <caption webpage="fotografia" alt=""/>
+    </file>
+    <file name="macbook-u9693.png" crc="4167542777" ref="sensenia"/>
+    <file name="moon.jpg" crc="300015393" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="eastside.jpg" crc="4084329028" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="pledy.jpg" crc="157866142" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="westside.jpg" crc="3862715656" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="calelozko_mg_4880-u9670.png" crc="4029244771" ref="sensenia"/>
+    <file name="kartonik_01-u17338.png" crc="296703107" ref="sensenia"/>
+    <file name="kartonik_02-u17343.png" crc="4107415730" ref="sensenia"/>
+    <file name="kartonik_03-u17348.png" crc="339577872" ref="sensenia"/>
+    <file name="metka_04.jpg" crc="2986329" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="metka_02.jpg" crc="232571525" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="metka_03.jpg" crc="4100747041" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="metka_01.jpg" crc="3894576100" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="metka-u17373.png" crc="175444746" ref="sensenia"/>
+    <file name="wiz_02.jpg" crc="3996652652" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="wiz_01.jpg" crc="3974798254" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="macbook-u9920.png" crc="4159922752" ref="face-clinic"/>
+    <file name="face-clinic_04.jpg" crc="121564753" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_06.jpg" crc="319892457" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_08.jpg" crc="122836247" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_05.jpg" crc="359412528" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_09.jpg" crc="4192565775" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0496x60.jpg" crc="4222649190" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0696x60.jpg" crc="401541741" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0896x60.jpg" crc="3933692446" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0596x60.jpg" crc="3800562484" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_0996x60.jpg" crc="3535207" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="face-clinic_id-u10044.png" crc="365175985" ref="face-clinic"/>
+    <file name="20110421-_mg_9744_off_04_web-crop-u27069.jpg" crc="3879244068" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="a_1.jpg" crc="298882484" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="a_2.jpg" crc="3877480177" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="a_3.jpg" crc="240428871" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="a_4.jpg" crc="304322138" seo="true" ref="face-clinic">
+      <caption webpage="face-clinic" alt=""/>
+    </file>
+    <file name="macbook-u17577.png" crc="4159922752" ref="iqb"/>
+    <file name="iqb-u17638.png" crc="497922512" ref="iqb"/>
+    <file name="macbook-u18845.png" crc="4159922752" ref="mum---fun"/>
+    <file name="wiz_01a-u18825.png" crc="181271235" ref="mum---fun"/>
+    <file name="wiz_02a-u18835.png" crc="4062631155" ref="mum---fun"/>
+    <file name="wiz_01b-u18830.png" crc="3777079140" ref="mum---fun"/>
+    <file name="wiz_02b-u18840.png" crc="3798461082" ref="mum---fun"/>
+    <file name="pap-kop.png" crc="62475635" seo="true" ref="mum---fun">
+      <caption webpage="mum---fun" alt=""/>
+    </file>
+    <file name="microfilm-u17469.png" crc="39897247" ref="microfilm"/>
+    <file name="tabasco_pap.jpg" crc="4170568459" seo="true" ref="tabasco">
+      <caption webpage="tabasco" alt=""/>
+    </file>
+    <file name="tabasco_koperta.jpg" crc="215853435" seo="true" ref="tabasco">
+      <caption webpage="tabasco" alt=""/>
+    </file>
+    <file name="tabasco_wiz1.jpg" crc="3997871304" seo="true" ref="tabasco">
+      <caption webpage="tabasco" alt=""/>
+    </file>
+    <file name="tabasco_wiz2.jpg" crc="302135987" seo="true" ref="tabasco">
+      <caption webpage="tabasco" alt=""/>
+    </file>
+    <file name="pap-firmowy.jpg" crc="4280200176" seo="true" ref="wine-company">
+      <caption webpage="wine-company" alt=""/>
+    </file>
+    <file name="wizytowka.jpg" crc="194906620" seo="true" ref="wine-company">
+      <caption webpage="wine-company" alt=""/>
+    </file>
+    <file name="podstawka-u18685.png" crc="4116166086" ref="wine-company"/>
+    <file name="butelka.png" crc="268408296" seo="true" ref="wine-company">
+      <caption webpage="wine-company" alt=""/>
+    </file>
+    <file name="iam-u17677.png" crc="4293962543" ref="iam"/>
+    <file name="wakeupjohnny-t-shirt-u18276.png" crc="3956330425" ref="wakeupjohnny"/>
+    <file name="wakeupjohnny-u18281.png" crc="165448015" ref="wakeupjohnny"/>
+    <file name="wizja-u17721.png" crc="480874618" ref="wizja"/>
+    <file name="sf-panorama.png" crc="250461302" seo="true" ref="sf-panorama">
+      <caption webpage="sf-panorama" alt=""/>
+    </file>
+    <file name="macbook-u18344.png" crc="4159922752" ref="grupa-projektowa"/>
+    <file name="grupaprojektowa_letterhead.png" crc="349853755" seo="true" ref="grupa-projektowa">
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="katalog.jpg" crc="3791451027" seo="true" ref="grupa-projektowa">
+      <caption webpage="grupa-projektowa" alt=""/>
+    </file>
+    <file name="magda_white_13-crop-u11829.jpg" crc="3799649730" seo="true" ref="obraz-podwojny">
+      <caption webpage="obraz-podwojny" alt=""/>
+    </file>
+    <file name="03-01.jpg" crc="4094415324" ref="obraz-podwojny">
+      <caption webpage="obraz-podwojny" alt=""/>
+    </file>
+    <file name="rethman_okl-u11714.png" crc="505067404" ref="obraz-podwojny"/>
+    <file name="rethman04-u11765.png" crc="3760901938" ref="obraz-podwojny"/>
+    <file name="rethman01-u11774.png" crc="235224646" ref="obraz-podwojny"/>
+    <file name="rethman02-u11783.png" crc="322284345" ref="obraz-podwojny"/>
+    <file name="rethman03-u11792.png" crc="459326582" ref="obraz-podwojny"/>
+    <file name="rethman05-u11801.png" crc="334363718" ref="obraz-podwojny"/>
+    <file name="rethman06-u11810.png" crc="524403889" ref="obraz-podwojny"/>
+    <file name="rethman07-u11819.png" crc="4256487651" ref="obraz-podwojny"/>
+    <file name="u11698.png" crc="286578809" ref="obraz-podwojny"/>
+    <file name="u11698-r.png" crc="316898677" ref="obraz-podwojny"/>
+    <file name="u11698-a.png" crc="207562821" ref="obraz-podwojny"/>
+    <file name="u11769.png" crc="3934220304" ref="obraz-podwojny"/>
+    <file name="u11769-r.png" crc="484355740" ref="obraz-podwojny"/>
+    <file name="u11769-a.png" crc="4152989398" ref="obraz-podwojny"/>
+    <file name="u11778.png" crc="353443459" ref="obraz-podwojny"/>
+    <file name="u11778-r.png" crc="327284909" ref="obraz-podwojny"/>
+    <file name="u11778-a.png" crc="3766346330" ref="obraz-podwojny"/>
+    <file name="u11787.png" crc="3929263141" ref="obraz-podwojny"/>
+    <file name="u11787-r.png" crc="4113512247" ref="obraz-podwojny"/>
+    <file name="u11787-a.png" crc="4218975720" ref="obraz-podwojny"/>
+    <file name="u11796.png" crc="3941176489" ref="obraz-podwojny"/>
+    <file name="u11796-r.png" crc="3923643111" ref="obraz-podwojny"/>
+    <file name="u11796-a.png" crc="233050066" ref="obraz-podwojny"/>
+    <file name="u11805.png" crc="49220627" ref="obraz-podwojny"/>
+    <file name="u11805-r.png" crc="148450658" ref="obraz-podwojny"/>
+    <file name="u11805-a.png" crc="3784876398" ref="obraz-podwojny"/>
+    <file name="u11814.png" crc="4007140514" ref="obraz-podwojny"/>
+    <file name="u11814-r.png" crc="4211089993" ref="obraz-podwojny"/>
+    <file name="u11814-a.png" crc="3985090203" ref="obraz-podwojny"/>
+    <file name="u11823.png" crc="200358483" ref="obraz-podwojny"/>
+    <file name="u11823-r.png" crc="116308239" ref="obraz-podwojny"/>
+    <file name="u11823-a.png" crc="281672126" ref="obraz-podwojny"/>
+    <file name="wizytowka.png" crc="3999695767" seo="true" ref="pamiętam-katyń">
+      <caption webpage="pamiętam-katyń" alt=""/>
+    </file>
+    <file name="katynguzik.jpg" crc="36241933" seo="true" ref="pamiętam-katyń:plakaty">
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="katynokulary.jpg" crc="309543399" seo="true" ref="pamiętam-katyń:plakaty">
+      <caption webpage="pamiętam-katyń" alt=""/>
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="bill_katyn.jpg" crc="144720203" seo="true" ref="pamiętam-katyń">
+      <caption webpage="pamiętam-katyń" alt=""/>
+    </file>
+    <file name="ulotkakatyn1-u12509.png" crc="89069087" ref="pamiętam-katyń"/>
+    <file name="ulotkakatyn2-u12514.png" crc="277330713" ref="pamiętam-katyń"/>
+    <file name="zmiesc_4x3_new.jpg" crc="4013960076" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="zasuwa.jpg" crc="4226928476" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="wiaze_40x30.jpg" crc="4137664192" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="city_light_24_36.jpg" crc="287160044" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="plakat.jpg" crc="3893277568" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="koszulki.png" crc="128606558" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="kubki_rakieta-u12444.png" crc="3995559370" ref="partnerska-rodzina"/>
+    <file name="kubki_zamieszac-u12449.png" crc="149539979" ref="partnerska-rodzina"/>
+    <file name="kubki_buciki-u12439.png" crc="650317" ref="partnerska-rodzina"/>
+    <file name="kubki_zmiesc-u12454.png" crc="353985641" ref="partnerska-rodzina"/>
+    <file name="torba-teczka-zaproszenie.png" crc="201093717" seo="true" ref="partnerska-rodzina">
+      <caption webpage="partnerska-rodzina" alt=""/>
+    </file>
+    <file name="pop_znaczek-u17327.png" crc="3846284480" ref="prawda-jest-niesmiertelna"/>
+    <file name="popieluszko_palac.jpg" crc="59000157" seo="true" ref="prawda-jest-niesmiertelna">
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+    </file>
+    <file name="pop_bilboard.jpg" crc="3979006774" seo="true" ref="prawda-jest-niesmiertelna">
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+    </file>
+    <file name="popieluszko_matko.jpg" crc="3817740710" seo="true" ref="prawda-jest-niesmiertelna">
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+    </file>
+    <file name="popieluszko_korzeniem.jpg" crc="3952755339" seo="true" ref="prawda-jest-niesmiertelna">
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+    </file>
+    <file name="popieluszko_aby.jpg" crc="314721113" seo="true" ref="prawda-jest-niesmiertelna">
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+    </file>
+    <file name="popieluszko_klamstwo.jpg" crc="4115865796" seo="true" ref="prawda-jest-niesmiertelna">
+      <caption webpage="prawda-jest-niesmiertelna" alt=""/>
+    </file>
+    <file name="logo.gif" crc="161118115" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="logo_market-pylon-crop-u14856.jpg" crc="456557300" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="bilbord-na-miescie_rgb_male-crop-u14459.jpg" crc="189509423" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_baumit_m.jpg" crc="300901188" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_certus_m.jpg" crc="4089451673" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_h-h_m.jpg" crc="219659708" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_ozarow_m.jpg" crc="530940888" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_porotherm_m.jpg" crc="3780257505" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_1200x400_baumit_m.jpg" crc="457543995" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_1200x400_h-h_m.jpg" crc="134884274" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_baumit_m120x61.jpg" crc="204727063" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_certus_m120x61.jpg" crc="87158599" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_h-h_m120x61.jpg" crc="380798043" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_ozarow_m120x61.jpg" crc="21362930" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_600x300_porotherm_m120x61.jpg" crc="4216613280" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_1200x400_baumit_m-crop-u14698.jpg" crc="317676010" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="billboard_1200x400_h-h_m-crop-u14707.jpg" crc="3819055914" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="wozek_napisy_ok.png" crc="321447553" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="zaproszenie_targi_rgb.jpg" crc="184345760" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="folderokladka.jpg" crc="3999863960" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="folder_okladka_02.jpg" crc="4268181532" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="modlińska-do-wiz-2c.jpg" crc="502995471" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="plot_wiz.jpg" crc="510217987" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="pylon_3d.png" crc="355752000" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="orzel_znaczek-u14408.png" crc="266133205" ref="niepodleglosc-1111"/>
+    <file name="orzel_komoks.jpg" crc="3967806976" seo="true" ref="niepodleglosc-1111">
+      <caption webpage="niepodleglosc-1111" alt=""/>
+    </file>
+    <file name="orzelkoszulki-u14415.png" crc="3822255609" ref="niepodleglosc-1111"/>
+    <file name="orzelkoszulki-u14420.png" crc="3983643423" ref="niepodleglosc-1111"/>
+    <file name="billborzel_504x238_prod.jpg" crc="163983564" seo="true" ref="niepodleglosc-1111">
+      <caption webpage="niepodleglosc-1111" alt=""/>
+    </file>
+    <file name="diablo-crop-u13585.png" crc="21724244" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="diablo-crop-u13596.png" crc="4088454713" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="diablo-crop-u13593.png" crc="107234865" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="diablo-x-2_300-dpi.jpg" crc="91091587" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="kapsel_diablo_300-dpi-crop-u13537.jpg" crc="4028949897" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="6pak_side.jpg" crc="3869708252" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="24-puck_300-dpi_diablo-crop-u13533.jpg" crc="220548635" seo="true" ref="piwo-diablo-z-artrepublica">
+      <caption webpage="piwo-diablo-z-artrepublica" alt=""/>
+    </file>
+    <file name="wv_outsider.jpg" crc="243646129" seo="true" ref="okladki-pism:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nagrody" alt=""/>
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="tpsa.jpg" crc="3896034921" seo="true" ref="tpsa">
+      <caption webpage="tpsa" alt=""/>
+    </file>
+    <file name="grandfront2004-u15641.png" crc="3988614085" ref="okladki-pism"/>
+    <file name="grandfront2004_b-u15643.png" crc="4251209382" ref="okladki-pism"/>
+    <file name="grandfront-2007-u15651.png" crc="4113816483" ref="okladki-pism"/>
+    <file name="wv_okladka_waronthugs.jpg" crc="216755948" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="wv_okladka_deadend.jpg" crc="414181671" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="timetoswitch.jpg" crc="4220486829" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="wv_okladka_smolensk.jpg" crc="4042223553" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="wv_okladka.jpg" crc="305417632" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="wv_okladka_11-2011.jpg" crc="4138776893" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="wv_okladka_chopin.jpg" crc="150285342" seo="true" ref="okladki-pism">
+      <caption webpage="okladki-pism" alt=""/>
+    </file>
+    <file name="jazz_plakat.jpg" crc="536362807" seo="true" ref="plakaty">
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="st-do-hi_01.jpg" crc="33237960" seo="true" ref="plakaty">
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="inforcharakter.jpg" crc="57055366" seo="true" ref="plakaty">
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="cosmopicasso.jpg" crc="3824138047" seo="true" ref="plakaty">
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="cosmoeinstain.jpg" crc="4278952456" seo="true" ref="plakaty">
+      <caption webpage="plakaty" alt=""/>
+    </file>
+    <file name="graffiti_logo1.png" crc="3921740351" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti_logo2.png" crc="3780427534" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti_logo3.png" crc="152946933" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti_logo1232x97.png" crc="4212865072" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti_logo2232x97.png" crc="3936078821" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="graffiti_logo3232x97.png" crc="382328025" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okladka_graffiti_cz1.jpg" crc="34491990" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okladka_graffiti_cz2.jpg" crc="4148302197" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okladka_graffiti_cz3.jpg" crc="4024978716" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okladka_graffiti_cz1a.jpg" crc="3957457389" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okladka_graffiti_cz2a.jpg" crc="106118414" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okladka_graffiti_cz3a.jpg" crc="4089370881" seo="true" ref="graffiti">
+      <caption webpage="graffiti" alt=""/>
+    </file>
+    <file name="okl_orgpracy_cz1.jpg" crc="192837328" seo="true" ref="tehnik-hotelarstwa">
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+    </file>
+    <file name="galka_marketing_165x235_marketing.jpg" crc="3832163501" seo="true" ref="tehnik-hotelarstwa">
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+    </file>
+    <file name="galka_konsument_165x235_marketing_min.jpg" crc="4156525099" seo="true" ref="tehnik-hotelarstwa">
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+    </file>
+    <file name="galka_ekon-i-praw_165x235_ekonomia_min.jpg" crc="414270155" seo="true" ref="tehnik-hotelarstwa">
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+    </file>
+    <file name="galka_informatyka_165x235_marketing_min.jpg" crc="3879366034" seo="true" ref="tehnik-hotelarstwa">
+      <caption webpage="tehnik-hotelarstwa" alt=""/>
+    </file>
+    <file name="logo_mocnekino-u17184.png" crc="35296046" ref="mocne-kino"/>
+    <file name="logo_mocnekino_white-u17010.png" crc="203068853" ref="mocne-kino"/>
+    <file name="metal_hole_05.png" crc="454290461" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="metal_hole_06.png" crc="127181202" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="metal_hole_07.png" crc="168012808" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="metal_hole_08.png" crc="350161580" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="mk_okladka_tom1_roz-crop-u17115.jpg" crc="127849919" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="str_04_05_o11.jpg" crc="3966964144" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="str_10_11.jpg" crc="4170649880" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="str_06_07_o11.jpg" crc="157826925" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="str_12_13_o11.jpg" crc="4251351202" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="mk_prasa_230x287.jpg" crc="255021896" seo="true" ref="mocne-kino">
+      <caption webpage="mocne-kino" alt=""/>
+    </file>
+    <file name="font_sundaylove_darker.png" crc="3909518204" seo="true" ref="font">
+      <caption webpage="font" alt=""/>
+    </file>
+    <file name="pen.png" crc="79122574" seo="true" ref="gadgety">
+      <caption webpage="gadgety" alt=""/>
+    </file>
+    <file name="prezenter.jpg" crc="125527630" seo="true" ref="gadgety">
+      <caption webpage="gadgety" alt=""/>
+    </file>
+    <file name="mailing-crop-u18162.png" crc="34167772" seo="true" ref="gadgety">
+      <caption webpage="gadgety" alt=""/>
+    </file>
+    <file name="aliciasblocks_1280.jpg" crc="227367265" seo="true" ref="alicias">
+      <caption webpage="alicias" alt=""/>
+    </file>
+    <file name="sensenia_r.jpg" crc="3947034484" seo="true" ref="sensenia">
+      <caption webpage="sensenia" alt=""/>
+    </file>
+    <file name="grandfront2004-crop-u34758.png" crc="441824384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rethman07-crop-u34760.png" crc="127214977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="baner_sensenia-crop-u34762.jpg" crc="4035154228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kapsel_diablo_300-dpi-crop-u34764.jpg" crc="3810405845" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="katynguzik-crop-u34770.jpg" crc="512625830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="magda_white_10-crop-u34766.jpg" crc="226753889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grandfront2004-u34917.png" crc="3988614085" ref="index"/>
+    <file name="grandfront2004_b-u34919.png" crc="4251209382" ref="index"/>
+    <file name="grandfront-2007-u34927.png" crc="112962957" ref="index"/>
+    <file name="b-master-favicon.ico" crc="326399872" ref="logo:design"/>
+    <file name="reklama_kowalczyk.jpg" crc="3864299855" seo="true" ref="wiosenny-koszyk-niskich-cen">
+      <caption webpage="wiosenny-koszyk-niskich-cen" alt=""/>
+    </file>
+    <file name="c-master-favicon.ico" crc="326399872" ref="film:tpsa"/>
+    <file name="projekty.svg" crc="3914891994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="projekty_poster_.png" crc="3922762130" ref="index"/>
+    <file name="nagrody.svg" crc="520550677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nagrody_poster_.png" crc="3926070812" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_b-master.css" crc="4212285931" ref="phone>kontakt:phone>projekty:phone>nagrody:phone>o-nas:phone>logo:phone>fotografia:phone>web:phone>film"/>
+      <file name="master_b-master-copy.css" crc="229577592" ref="phone>branding:phone>kampanie:phone>print"/>
+      <file name="index.css" crc="53939017" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3775834655" ref="phone>index"/>
+      <file name="kontakt.css" crc="4214545945" ref="phone>kontakt"/>
+      <file name="iefonts_kontakt.css" crc="3826337830" ref="phone>kontakt"/>
+      <file name="projekty.css" crc="3793644351" ref="phone>projekty"/>
+      <file name="iefonts_projekty.css" crc="40967928" ref="phone>projekty"/>
+      <file name="nagrody.css" crc="81951779" ref="phone>nagrody"/>
+      <file name="iefonts_nagrody.css" crc="3965983932" ref="phone>nagrody"/>
+      <file name="o-nas.css" crc="221835737" ref="phone>o-nas"/>
+      <file name="iefonts_o-nas.css" crc="4146328442" ref="phone>o-nas"/>
+      <file name="logo.css" crc="387487914" ref="phone>logo"/>
+      <file name="iefonts_logo.css" crc="4256260263" ref="phone>logo"/>
+      <file name="fotografia.css" crc="300654316" ref="phone>fotografia"/>
+      <file name="iefonts_fotografia.css" crc="73958765" ref="phone>fotografia"/>
+      <file name="branding.css" crc="3830057526" ref="phone>branding"/>
+      <file name="iefonts_branding.css" crc="22699865" ref="phone>branding"/>
+      <file name="kampanie.css" crc="3830057526" ref="phone>kampanie"/>
+      <file name="iefonts_kampanie.css" crc="22699865" ref="phone>kampanie"/>
+      <file name="web.css" crc="393385022" ref="phone>web"/>
+      <file name="iefonts_web.css" crc="40967928" ref="phone>web"/>
+      <file name="film.css" crc="3953980161" ref="phone>film"/>
+      <file name="iefonts_film.css" crc="40967928" ref="phone>film"/>
+      <file name="print.css" crc="3830057526" ref="phone>print"/>
+      <file name="iefonts_print.css" crc="22699865" ref="phone>print"/>
+    </folder>
+    <file name="index.html" crc="4191095656" seo="true" mt="1631182270015" redirect="true"/>
+    <file name="o-nas.html" crc="4086930180" seo="true" mt="1631189967186" redirect="true"/>
+    <file name="kontakt.html" crc="4189948362" seo="true" mt="1631189942103" redirect="true"/>
+    <file name="projekty.html" crc="149598753" seo="true" mt="1631189958481" redirect="true"/>
+    <file name="nagrody.html" crc="526704355" seo="true" mt="1631189952753" redirect="true"/>
+    <file name="logo.html" crc="442344084" seo="true" mt="1631183096992" redirect="true"/>
+    <file name="fotografia.html" crc="522938597" seo="true" mt="1631183096992" redirect="true"/>
+    <file name="branding.html" crc="122703219" seo="true" mt="1631183111696" redirect="true"/>
+    <file name="kampanie.html" crc="226829769" seo="true" mt="1631183111696" redirect="true"/>
+    <file name="web.html" crc="4079140962" seo="true" mt="1631183096992" redirect="true"/>
+    <file name="film.html" crc="3961516839" seo="true" mt="1631183096992" redirect="true"/>
+    <file name="print.html" crc="256156248" seo="true" mt="1631183111696" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="35420655" seo="true" mt="1631209812811" redirect="true"/>
+  <file name="logo.html" crc="464909043" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="branding.html" crc="3758488932" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="kampanie.html" crc="232120252" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="design.html" crc="4124017611" seo="true" mt="1631202705711" redirect="true"/>
+  <file name="film.html" crc="521500012" seo="true" mt="1631196459414" redirect="true"/>
+  <file name="web.html" crc="491479540" seo="true" mt="1631194436399" redirect="true"/>
+  <file name="fotografia.html" crc="276361841" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="sensenia.html" crc="280356395" seo="true" mt="1631194357776" redirect="true"/>
+  <file name="face-clinic.html" crc="363071227" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="iqb.html" crc="108483639" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="mum---fun.html" crc="3865853602" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="microfilm.html" crc="41286916" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="tabasco.html" crc="3821800843" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="wine-company.html" crc="4292272444" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="iam.html" crc="362292884" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="wakeupjohnny.html" crc="3816752477" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="wizja.html" crc="4053200666" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="sf-panorama.html" crc="52066212" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="grupa-projektowa.html" crc="310281994" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="obraz-podwojny.html" crc="3785208613" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="pamiętam-katyń.html" crc="313742786" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="partnerska-rodzina.html" crc="3957894649" seo="true" mt="1631194370923" redirect="true"/>
+  <file name="prawda-jest-niesmiertelna.html" crc="4257674012" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="wiosenny-koszyk-niskich-cen.html" crc="3809770475" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="niepodleglosc-1111.html" crc="3849023590" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="piwo-diablo-z-artrepublica.html" crc="492822141" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="tpsa.html" crc="4037533955" seo="true" mt="1631195371618" redirect="true"/>
+  <file name="okladki-pism.html" crc="4289879332" seo="true" mt="1631194396201" redirect="true"/>
+  <file name="plakaty.html" crc="4111161704" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="graffiti.html" crc="217670883" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="tehnik-hotelarstwa.html" crc="3980009842" seo="true" mt="1631194406495" redirect="true"/>
+  <file name="mocne-kino.html" crc="4242354674" seo="true" mt="1631194414809" redirect="true"/>
+  <file name="font.html" crc="390696525" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="gadgety.html" crc="447304365" seo="true" mt="1631198720861" redirect="true"/>
+  <file name="alicias.html" crc="4182480635" seo="true" mt="1631198720861" redirect="true"/>
+  <site>
+    <paragraphStyle className="normal_text" uid="U62"/>
+    <characterStyle className="podpisy" uid="U12163"/>
+    <characterStyle className="Podpis-LOGO" uid="U22787"/>
+    <textLinkStyle className="podkreslenie" uid="U14338"/>
+    <nestedListStyle className="nls-None" uid="U27216"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="START" filename="index.html" muse_href="page:U69" master="U66">
+        <breakpoint uid="U27317" maxwidth="1180" minwidth="0" squishy="false"/>
+        <anchor name="O-NAS" html_id="o-nas" muse_href="anchor:U67:U34632" includeInBPs="U27317"/>
+        <anchor name="START" html_id="start" muse_href="anchor:U67:U34719" includeInBPs="U27317"/>
+        <anchor name="PROJEKTY" html_id="projekty" muse_href="anchor:U67:U34734" includeInBPs="U27317"/>
+        <anchor name="NAGRODY" html_id="nagrody" muse_href="anchor:U67:U34982" includeInBPs="U27317"/>
+        <anchor name="KONTAKT" html_id="kontakt" muse_href="anchor:U67:U35023" includeInBPs="U27317"/>
+      </page>
+      <masterPage name="A-Master" master="U65" uid="U66">
+        <breakpoint uid="U27333" maxwidth="1180" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U65">
+        <breakpoint uid="U27328" maxwidth="1180" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="LOGO" filename="logo.html" muse_href="page:U2654" master="U35060">
+        <breakpoint uid="U27280" maxwidth="1180" minwidth="0" squishy="false"/>
+        <anchor name="logo_top" html_id="logo_top" muse_href="anchor:U2652:U35390" includeInBPs="U27280"/>
+      </page>
+      <masterPage name="B-Master" master="U65" uid="U35060">
+        <breakpoint uid="U35063" maxwidth="1180" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="BRANDING" filename="branding.html" muse_href="page:U2657" master="U35060">
+        <breakpoint uid="U27279" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="KAMPANIE" filename="kampanie.html" muse_href="page:U2660" master="U35060">
+        <breakpoint uid="U27284" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="DESIGN" filename="design.html" muse_href="page:U2663" master="U35060">
+        <breakpoint uid="U27334" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="FILM" filename="film.html" muse_href="page:U2666" master="U35562">
+        <breakpoint uid="U27281" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="C-Master" master="U65" uid="U35562">
+        <breakpoint uid="U35653" maxwidth="1180" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="WEB" filename="web.html" muse_href="page:U2669" master="U35562">
+        <breakpoint uid="U27288" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="FOTOGRAFIA" filename="fotografia.html" muse_href="page:U6120" master="U35060">
+        <breakpoint uid="U27292" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="SENSENIA" filename="sensenia.html" muse_href="page:U6254" master="U35562">
+        <breakpoint uid="U27287" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="FACE-CLINIC" filename="face-clinic.html" muse_href="page:U9012" master="U35060">
+        <breakpoint uid="U27313" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="IQB" filename="iqb.html" muse_href="page:U9015" master="U35060">
+        <breakpoint uid="U27321" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="mum &amp; fun" filename="mum---fun.html" muse_href="page:U9018" master="U35060">
+        <breakpoint uid="U27329" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="MICROFILM" filename="microfilm.html" muse_href="page:U9021" master="U35060">
+        <breakpoint uid="U27335" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="TABASCO" filename="tabasco.html" muse_href="page:U9024" master="U35060">
+        <breakpoint uid="U27294" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="WINE COMPANY" filename="wine-company.html" muse_href="page:U9027" master="U35060">
+        <breakpoint uid="U27299" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="IAM" filename="iam.html" muse_href="page:U9030" master="U35060">
+        <breakpoint uid="U27307" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="WAKEUPJOHNNY" filename="wakeupjohnny.html" muse_href="page:U9033" master="U35060">
+        <breakpoint uid="U27316" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="WIZJA" filename="wizja.html" muse_href="page:U9036" master="U35060">
+        <breakpoint uid="U27323" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="SF PANORAMA" filename="sf-panorama.html" muse_href="page:U9039" master="U35060">
+        <breakpoint uid="U27331" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Grupa Projektowa" filename="grupa-projektowa.html" muse_href="page:U9042" master="U35060">
+        <breakpoint uid="U27300" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Obraz Podwojny" filename="obraz-podwojny.html" muse_href="page:U11594" master="U35060">
+        <breakpoint uid="U27315" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PAMIĘTAM KATYŃ" filename="pamiętam-katyń.html" muse_href="page:U12067" master="U35060">
+        <breakpoint uid="U27306" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PARTNERSKA RODZINA" filename="partnerska-rodzina.html" muse_href="page:U12172" master="U35562">
+        <breakpoint uid="U27293" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PRAWDA JEST NIESMIERTELNA" filename="prawda-jest-niesmiertelna.html" muse_href="page:U12175" master="U35060">
+        <breakpoint uid="U27298" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="WIOSENNY KOSZYK NISKICH CEN" filename="wiosenny-koszyk-niskich-cen.html" muse_href="page:U12178" master="U35060">
+        <breakpoint uid="U27308" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="NIEPODLEGLOSC 11/11" filename="niepodleglosc-1111.html" muse_href="page:U12181" master="U35060">
+        <breakpoint uid="U27312" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Piwo DIABLO z ARTREPUBLICA" filename="piwo-diablo-z-artrepublica.html" muse_href="page:U13412" master="U35060">
+        <breakpoint uid="U27303" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="TPSA" filename="tpsa.html" muse_href="page:U15319" master="U35562">
+        <breakpoint uid="U27314" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="OKLADKI PISM" filename="okladki-pism.html" muse_href="page:U15322" master="U35562">
+        <breakpoint uid="U27326" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PLAKATY" filename="plakaty.html" muse_href="page:U15325" master="U35060">
+        <breakpoint uid="U27289" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="GRAFFITI" filename="graffiti.html" muse_href="page:U15340" master="U35060">
+        <breakpoint uid="U27295" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Tehnik Hotelarstwa" filename="tehnik-hotelarstwa.html" muse_href="page:U16506" master="U35562">
+        <breakpoint uid="U27309" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="MOCNE KINO" filename="mocne-kino.html" muse_href="page:U17009" master="U35562">
+        <breakpoint uid="U27318" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="FONT" filename="font.html" muse_href="page:U17767" master="U35060">
+        <breakpoint uid="U27324" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Gadgety" filename="gadgety.html" muse_href="page:U18107" master="U35060">
+        <breakpoint uid="U27332" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+      <page name="Alicias" filename="alicias.html" muse_href="page:U19140" master="U35060">
+        <breakpoint uid="U27285" maxwidth="1180" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="MENU" filename="index.html" muse_href="page:U20277" master="U20265">
+        <breakpoint uid="U27304" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="A-Master" master="U20260" uid="U20265">
+        <breakpoint uid="U27297" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U20260">
+        <breakpoint uid="U27305" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="O NAS" filename="o-nas.html" muse_href="page:U20285" master="U21710">
+        <breakpoint uid="U27311" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="B-Master" master="U20260" uid="U21710">
+        <breakpoint uid="U27330" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="KONTAKT" filename="kontakt.html" muse_href="page:U20293" master="U21710">
+        <breakpoint uid="U27320" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PROJEKTY" filename="projekty.html" muse_href="page:U20301" master="U21710">
+        <breakpoint uid="U27327" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="NAGRODY" filename="nagrody.html" muse_href="page:U20589" master="U21710">
+        <breakpoint uid="U27322" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="LOGO" filename="logo.html" muse_href="page:U22193" master="U21710">
+        <breakpoint uid="U27336" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="FOTOGRAFIA" filename="fotografia.html" muse_href="page:U22216" master="U21710">
+        <breakpoint uid="U27283" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="BRANDING" filename="branding.html" muse_href="page:U22238" master="U22550">
+        <breakpoint uid="U27290" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <masterPage name="B-Master copy" master="U20260" uid="U22550">
+        <breakpoint uid="U27325" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="KAMPANIE" filename="kampanie.html" muse_href="page:U22261" master="U22550">
+        <breakpoint uid="U27296" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="WEB" filename="web.html" muse_href="page:U22284" master="U21710">
+        <breakpoint uid="U27302" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="FILM" filename="film.html" muse_href="page:U22307" master="U21710">
+        <breakpoint uid="U27310" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+      <page name="PRINT" filename="print.html" muse_href="page:U22329" master="U22550">
+        <breakpoint uid="U27319" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
